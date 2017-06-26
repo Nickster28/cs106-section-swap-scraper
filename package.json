@@ -1,0 +1,15 @@
+{
+  "name": "section-swap-scraper",
+  "version": "1.0.0",
+  "description": "A scraper/parser for the CS198 discussion sections webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Troccoli",
+  "license": "ISC",
+  "repository": "https://github.com/Nickster28/cs106-section-swap-scraper",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
